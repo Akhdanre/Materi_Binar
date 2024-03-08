@@ -1,0 +1,13 @@
+
+declare r, phi, hasil
+
+r = INPUT("Masukkan jari jari lingkaran))
+phi = 3.14
+
+if isInt(CONVERT_TO_INTEGER(r)) then
+hasil = 2 * phi * 
+alert("Hasil keliling lingkarang dengan jari jari + r + "=" + hasil)
+
+else then 
+alert("masukkan jari jari anda bukan angka")
+endif 

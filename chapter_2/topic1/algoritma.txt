@@ -1,0 +1,11 @@
+Algoritma menghitung keliling lingkaran
+
+masukan angka jari jari lingkaran 
+
+tentukan nilai phi dengan 3.14
+
+hitung keliling lingkaran dengan cara
+
+2 dikali phi lalu dikali dengan jari jari
+
+tampilkan hasilnya 
